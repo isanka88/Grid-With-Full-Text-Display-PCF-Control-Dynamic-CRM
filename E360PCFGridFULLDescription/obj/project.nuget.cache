@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KV+p+rfiahLiR51ghzq9zUGqn5M/ePtzR8Atv9/O/xh3ct+ECdZmuGWeocW4EI35c2b3aNI2Nit/xqJ27f1tbQ==",
+  "success": true,
+  "projectFilePath": "E:\\EAGLE 360\\CRM PROJECTS\\PLUGINS\\D365CE-COLDSHIELD-PLUGINS\\PCF CONTROLS\\PCF Grid With FULL Description\\E360PCFGridFULLDescription\\E360PCFGridFULLDescription.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\94713\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\94713\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\94713\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.24.3\\microsoft.powerapps.msbuild.pcf.1.24.3.nupkg.sha512",
+    "C:\\Users\\94713\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.24.3\\microsoft.powerapps.msbuild.solution.1.24.3.nupkg.sha512"
+  ],
+  "logs": []
+}
